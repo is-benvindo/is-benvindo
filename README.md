@@ -1,6 +1,6 @@
 ### Olá! Sou Israel Benvindo ✌️
-Sou estudante de Análise de Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI)
-Atualmente estou apronfundando meus conhecimentos em Bancos de Dados Relacionais e Python 
+- Estudante de Análise de Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI)
+- Atualmente apronfundando meus conhecimentos em Bancos de Dados Relacionais e Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-benvindo-1a7b21212/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/is_benvindo/)
 
@@ -18,5 +18,6 @@ Atualmente estou apronfundando meus conhecimentos em Bancos de Dados Relacionais
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
