@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Israel Benvindo ✌️
-- Estudante de Análise de Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI)
-- Estudando atualmente 📚
+- Acadêmico de Análise de Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI)
+- 📚 Estudando
 
 <div style="disply: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,9 +10,9 @@
 </div>
 
 ## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-benvindo-1a7b21212/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/is_benvindo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-benvindo-1a7b21212/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/is_benvindo/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-benvindo&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-benvindo&layout=compact&bg_color=282a36)
 
 ## Outras Tecnologias
 
