@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Israel Benvindo ✌️
-- Acadêmico de Análise de Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI)
+- Acadêmico de Tecnologia Análise de Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI)
 - 📚 Estudando atualmente:
 <div style="disply: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
